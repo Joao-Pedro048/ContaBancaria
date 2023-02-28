@@ -16,6 +16,8 @@ class programa {
         System.out.println(minhaConta.titular);
         System.out.println(minhaConta.saldo);
 
+        System.out.println("\n");
+        
         System.out.println(minhaConta2.numero);
         System.out.println(minhaConta2.titular);
         System.out.println(minhaConta2.saldo);
